@@ -1,0 +1,3 @@
+date
+ls -lt
+cal
